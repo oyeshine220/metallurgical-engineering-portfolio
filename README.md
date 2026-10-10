@@ -1,2 +1,1 @@
-# metallurgical-engineering-portfolio
-A professional portfolio showcasing my metallurgical engineering knowledge, quality control experience, laboratory testing, and technical projects.
+A professional portfolio documenting my expertise in Materials and Metallurgical Engineering, Quality Control, Optical Emission Spectrometry (OES), steel testing, materials characterization, and metallurgical laboratory practices.
